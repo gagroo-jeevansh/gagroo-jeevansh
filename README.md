@@ -1,6 +1,6 @@
 # 👋 Hey Ya !, I'm Jeevansh Gagroo
 
-## :computer:	:100:Final Year CSE Undergraduate ![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+## :computer:	:100:Final Year CSE Undergraduate ![Profile views](https://komarev.com/ghpvc/?username=gagroo-jeevansh)
 
 
 Just another enthusiast, passionate about advancing the fields of Natural Language Processing (NLP), Machine Learning, Deep Learning, and Artificial Intelligence. With a strong foundation in these areas, I'm continually exploring innovative ways to solve everyday problems.
