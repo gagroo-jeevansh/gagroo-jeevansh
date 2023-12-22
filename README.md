@@ -55,7 +55,7 @@ Just another enthusiast, passionate about advancing the fields of Natural Langua
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right:10px;"/>
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gagroo-jeevansh&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagroo-jeevansh&layout=compact)
 
 ## Let's Connect :handshake::iphone:	
